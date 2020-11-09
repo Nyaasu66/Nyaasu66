@@ -1,5 +1,6 @@
 ### Hi there 👋
-![:name](https://count.getloli.com/get/@:nyaasu_github) vistors
+### Vistors
+![:name](https://count.getloli.com/get/@:nyaasu_github) 
 
 [![Nyaasu's github stats](https://github-readme-stats.vercel.app/api?username=Nyaasu66&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <!--
