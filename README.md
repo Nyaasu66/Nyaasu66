@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Visitors](https://count.getloli.com/get/@nyaasu_github?theme=rule34)&emsp;&emsp;&emsp;[![Nyaasu's github stats](https://github-readme-stats.vercel.app/api?username=Nyaasu66&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Nyaasu's github stats](https://github-readme-stats.vercel.app/api?username=Nyaasu66&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)&emsp;&emsp;&emsp;![Visitors](https://count.getloli.com/get/@nyaasu_github?theme=rule34)
 ### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
