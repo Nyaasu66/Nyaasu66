@@ -16,5 +16,4 @@
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 ### Console&Game
 [![](https://img.shields.io/badge/-Nintendo3DS-red?style=flat-square&logo=nintendo%203ds&logoColor=ffffff)](https://www.nintendo.co.jp/software/3ds/index.html)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/nyaasu66)
-[![Nyaasu's github stats](https://github-readme-stats.vercel.app/api?username=Nyaasu66&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/nyaasu66)                              [![Nyaasu's github stats](https://github-readme-stats.vercel.app/api?username=Nyaasu66&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
