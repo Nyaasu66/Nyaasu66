@@ -1,6 +1,6 @@
 ### Hi there 👋
-### Vistors
-![:name](https://count.getloli.com/get/@nyaasu_github?theme=rule34) 
+![Visitors](https://count.getloli.com/get/@nyaasu_github?theme=rule34) 
+[![Nyaasu's github stats](https://github-readme-stats.vercel.app/api?username=Nyaasu66&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 ### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
@@ -16,4 +16,4 @@
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 ### Console&Game
 [![](https://img.shields.io/badge/-Nintendo3DS-red?style=flat-square&logo=nintendo%203ds&logoColor=ffffff)](https://www.nintendo.co.jp/software/3ds/index.html)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/nyaasu66)                              [![Nyaasu's github stats](https://github-readme-stats.vercel.app/api?username=Nyaasu66&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/nyaasu66)
