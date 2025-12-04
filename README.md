@@ -3,6 +3,8 @@
 I'm a frontend development engineer with experience in server operations and maintenance.  
 Passionate about ACG culture and a big fan of Nintendo handhelds, consoles, and games.
 
+### Tools
+
 ![macOS](https://img.shields.io/badge/macOS-15-292e33?style=flat-square&logo=apple&logoColor=ffffff)
 ![VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
